@@ -1,0 +1,5 @@
+En la terminal poner:
+
+npm init -y         <- Para inisializar el Proyecto.
+
+npm i mongoose express cors dotenv              <- Para descargar los archivos y/o dependencias.
